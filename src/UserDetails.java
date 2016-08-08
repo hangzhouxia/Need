@@ -1,7 +1,6 @@
-package javabeat.net.rest;
-
 import javax.xml.bind.annotation.XmlAttribute;
 import javax.xml.bind.annotation.XmlRootElement;
+
 @XmlRootElement
 public class UserDetails {
 	private String userName;
